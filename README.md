@@ -6,13 +6,10 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://vault-glitch.github.io/interior-consultant">
       Demo
     </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
-    </a>
+    
     <span> | </span>
     <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
       Challenge
