@@ -9,7 +9,6 @@
     <a href="https://vault-glitch.github.io/interior-consultant">
       Demo
     </a>
-    
     <span> | </span>
     <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
       Challenge
